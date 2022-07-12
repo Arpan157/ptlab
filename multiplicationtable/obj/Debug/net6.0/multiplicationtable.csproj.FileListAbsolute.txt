@@ -1,0 +1,15 @@
+E:\C#\multiplicationtable\bin\Debug\net6.0\multiplicationtable.exe
+E:\C#\multiplicationtable\bin\Debug\net6.0\multiplicationtable.deps.json
+E:\C#\multiplicationtable\bin\Debug\net6.0\multiplicationtable.runtimeconfig.json
+E:\C#\multiplicationtable\bin\Debug\net6.0\multiplicationtable.dll
+E:\C#\multiplicationtable\bin\Debug\net6.0\multiplicationtable.pdb
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.csproj.AssemblyReference.cache
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.AssemblyInfoInputs.cache
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.AssemblyInfo.cs
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.csproj.CoreCompileInputs.cache
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.dll
+E:\C#\multiplicationtable\obj\Debug\net6.0\refint\multiplicationtable.dll
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.pdb
+E:\C#\multiplicationtable\obj\Debug\net6.0\multiplicationtable.genruntimeconfig.cache
+E:\C#\multiplicationtable\obj\Debug\net6.0\ref\multiplicationtable.dll

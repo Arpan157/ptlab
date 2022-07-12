@@ -1,0 +1,15 @@
+E:\C#\areac\bin\Debug\net6.0\areac.exe
+E:\C#\areac\bin\Debug\net6.0\areac.deps.json
+E:\C#\areac\bin\Debug\net6.0\areac.runtimeconfig.json
+E:\C#\areac\bin\Debug\net6.0\areac.dll
+E:\C#\areac\bin\Debug\net6.0\areac.pdb
+E:\C#\areac\obj\Debug\net6.0\areac.csproj.AssemblyReference.cache
+E:\C#\areac\obj\Debug\net6.0\areac.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\areac\obj\Debug\net6.0\areac.AssemblyInfoInputs.cache
+E:\C#\areac\obj\Debug\net6.0\areac.AssemblyInfo.cs
+E:\C#\areac\obj\Debug\net6.0\areac.csproj.CoreCompileInputs.cache
+E:\C#\areac\obj\Debug\net6.0\areac.dll
+E:\C#\areac\obj\Debug\net6.0\refint\areac.dll
+E:\C#\areac\obj\Debug\net6.0\areac.pdb
+E:\C#\areac\obj\Debug\net6.0\areac.genruntimeconfig.cache
+E:\C#\areac\obj\Debug\net6.0\ref\areac.dll

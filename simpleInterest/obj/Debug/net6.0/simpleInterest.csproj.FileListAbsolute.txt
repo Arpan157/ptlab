@@ -1,0 +1,15 @@
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.csproj.AssemblyReference.cache
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.AssemblyInfoInputs.cache
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.AssemblyInfo.cs
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.csproj.CoreCompileInputs.cache
+E:\C#\simpleInterest\bin\Debug\net6.0\simpleInterest.exe
+E:\C#\simpleInterest\bin\Debug\net6.0\simpleInterest.deps.json
+E:\C#\simpleInterest\bin\Debug\net6.0\simpleInterest.runtimeconfig.json
+E:\C#\simpleInterest\bin\Debug\net6.0\simpleInterest.dll
+E:\C#\simpleInterest\bin\Debug\net6.0\simpleInterest.pdb
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.dll
+E:\C#\simpleInterest\obj\Debug\net6.0\refint\simpleInterest.dll
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.pdb
+E:\C#\simpleInterest\obj\Debug\net6.0\simpleInterest.genruntimeconfig.cache
+E:\C#\simpleInterest\obj\Debug\net6.0\ref\simpleInterest.dll
